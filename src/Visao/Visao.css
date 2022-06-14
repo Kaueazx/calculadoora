@@ -1,0 +1,12 @@
+.Visao {
+    display: flex;
+    width: 100%;
+    background-color: #dde1e1;
+    justify-content: flex-end;
+    padding: 15px 0;
+    font-size: 2em;
+    border-radius: 5px;
+    padding-right: 15px;
+    box-sizing: border-box;
+
+}
